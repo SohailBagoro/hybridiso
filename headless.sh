@@ -277,7 +277,7 @@ main() {
     configure_lb
     write_packages
     write_mirror_hook
-    write_preseed
+#    write_preseed
     build_iso
 }
 
