@@ -1,1 +1,1 @@
-apt install curl wget git sudo openssh-server bash-completion ufw ca-certificates gnupg netselect-apt
+apt install -y curl wget git sudo openssh-server bash-completion ufw ca-certificates gnupg netselect-apt
